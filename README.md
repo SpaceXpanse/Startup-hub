@@ -9,5 +9,5 @@ But we're not stopping there. We're also building a community of like-minded ind
 In short, this is only the first step on the route to make the perfect place for anyone involved in cryptocurrencies. Whether you're looking for the latest news and analysis or want to connect with other like-minded individuals, we'll have everything you need to thrive. And if you're a new project looking for support and resources, we'll also be here to help.
 So why wait? Join us today and start building your crypto future.
 
-Walter Philips  
-Founder and CEO of SpaceXpanse
+**Walter Philips**  
+Founder and CEO of [SpaceXpanse](https://www.spacexpanse.org/)
