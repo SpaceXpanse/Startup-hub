@@ -1,4 +1,4 @@
-# SpaceXpanse Multiverse startup hub
+# Welcome to the SpaceXpanse Multiverse startup hub
 ## Come together, from zero to hero
 We're building a comprehensive ecosystem around our SpaceXpanse Multiverse platform to support new and upcoming projects. We know from experience how difficult it can be for new projects to get the attention they deserve in such a crowded space. That's why we're creating a startup hub that not only provides news and information but also will connect new projects, created with the tools our platform provides, with investors, advisors, and other resources to help them succeed.
 
