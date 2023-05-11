@@ -6,8 +6,9 @@ Our startup ecosystem will include a dedicated section for new projects, where y
 
 But we're not stopping there. We're also building a community of like-minded individuals who share our passion for cryptocurrencies. Our community will provide a forum for discussion, networking, and collaboration. Whether you're a gamer, developer, creator, scientist, investor, visionary, or just a crypto enthusiast, our community will be the perfect place to connect with others who share same interests.
 
-In short, this is only the first step on the route to make the perfect place for anyone involved in cryptocurrencies. Whether you're looking for the latest news and analysis or want to connect with other like-minded individuals, we'll have everything you need to thrive. And if you're a new project looking for support and resources, we'll also be here to help.
-So why wait? Join us today and start building your crypto future.
+In short, this is only the first step on the route to make the perfect place for anyone involved in cryptocurrencies. Whether you're looking for the latest news and analysis or want to connect with other like-minded individuals, we'll have everything you need to thrive. And if you're a new project looking for support and resources, we'll also be here to help.  
+
+_So why wait? Join us today and start building your crypto future._
 
 **Walter Philips**  
 Founder and CEO of [SpaceXpanse](https://www.spacexpanse.org/)
