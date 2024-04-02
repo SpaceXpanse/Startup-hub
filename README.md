@@ -13,6 +13,11 @@ _So why wait? Join us today and start building your crypto future._
 **Walter Philips**  
 Founder and CEO of [SpaceXpanse](https://www.spacexpanse.org/)
 
-## Current hackaton: 
+## Current SpaceXpanse Startup Ecosystem:  
+
+### Crypto News website  
+[Cryptospace.Today](https://www.cryptospace.today/p/about-this-website.html)  
+
+### Past hackatons:  
 **Enter the SpaceXpanse Multiverse** - from August 1st to August 31st 2023  
 Go to [https://github.com/SpaceXpanse/Hackathon-starter-kit](https://github.com/SpaceXpanse/Hackathon-starter-kit) for more info
